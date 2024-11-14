@@ -84,6 +84,17 @@
          font-size: 1rem;
           font-weight: bold;
         }
+ /* Responsividade: Ajusta para 2 colunas em telas médias */
+    @media (max-width: 768px) {
+      .box {
+        flex: 1 1 calc(50% - 20px);
+      }
+
+    /* Responsividade: Ajusta para 1 coluna em telas pequenas */
+    @media (max-width: 480px) {
+      .box {
+        flex: 1 1 100%;
+      }
         @media print {
             button {
                 display: none;
