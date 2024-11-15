@@ -100,12 +100,6 @@
          font-size: 1rem;
           font-weight: bold;
         }
-    @media screen (max-width: 600px) {
-      body {
-        font-size: 10px; /* Ajusta fonte em telas menores */
-        padding: 5px;
-          flex-direction: column;
-      }
             .editable {
                 border: none;
                 background-color: transparent;
