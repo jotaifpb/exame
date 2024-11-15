@@ -101,4 +101,6 @@
                 border: none;
                 background-color: transparent;
             }
+             .indications div {
+        width: 100%; 
         }
