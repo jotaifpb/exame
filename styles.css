@@ -12,7 +12,7 @@
         margin:1px;
         gap: 5%;
     }
-div#saud{
+.saud{
     background: url("https://github.com/jotaifpb/exame/blob/main/img/saude.png?raw=true");
     opacity: 0.5;
 }
