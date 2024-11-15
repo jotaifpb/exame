@@ -17,6 +17,12 @@
             text-align: center;
             margin: 10px 0;
         }
+    .plfundo{
+        display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 800px;
+    }
        h2 {
             text-align: left;
             margin: 10px 0;
