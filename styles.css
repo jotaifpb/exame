@@ -15,7 +15,7 @@
 .saud{
     background: url("https://github.com/jotaifpb/exame/blob/main/img/saude.png?raw=true");
     opacity: 0.5;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
         h1 {
             text-align: center;
