@@ -27,6 +27,9 @@
         }
      
         table {
+            background: url("https://github.com/jotaifpb/exame/blob/main/img/saude.png?raw=true");
+        opacity: 0.5;
+        background-repeat: no-repeat;
            font-size: 16px;
            font-weight: bold;
             text-align: center;
