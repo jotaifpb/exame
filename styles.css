@@ -9,6 +9,7 @@
         }
     .mycontainer{
         display: flex;
+        flex-wrap: wrap; /* Permite ajustar em telas menores */
         margin:1px;
         gap: 5%;
 }
