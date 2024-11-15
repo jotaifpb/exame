@@ -9,7 +9,7 @@
         }
     .mycontainer{
         display: flex;
-        margin:5px;
+        margin:2px;
         gap: 10%;
     }
         h1 {
