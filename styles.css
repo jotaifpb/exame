@@ -12,8 +12,8 @@
         margin:1px;
         gap: 5%;
     }
-.marca{
-    background: url(https://github.com/jotaifpb/exame/blob/main/img/saude.png?raw=true");
+div#marca{
+    background: url("https://github.com/jotaifpb/exame/blob/main/img/saude.png?raw=true");
     opacity: 0.5;
 }
         h1 {
