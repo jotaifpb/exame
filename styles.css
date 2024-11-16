@@ -14,7 +14,7 @@
         margin:3px;
         gap: 5%;
 }
-        h1 {
+       h1 {
             text-align: center;
             margin: 10px 0;
         }
@@ -41,7 +41,7 @@
             text-align: center;
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 7px;
+            margin-bottom: 10px;
           
         }
         table, th, td {
