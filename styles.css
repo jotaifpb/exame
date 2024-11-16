@@ -10,7 +10,7 @@
     .mycontainer{
         display: flex;
         flex-wrap: wrap; /* Permite ajustar em telas menores */
-        margin:10px;
+        margin:1px;
         gap: 5%;
 }
         h1 {
