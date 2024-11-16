@@ -3,7 +3,6 @@
             font-size: 12px;
             width: 13cm;
             height: 17cm;
-            margin: 10 left;
 	    margin-top: 10cm;
             padding: 10px;
             border: 1px solid #000;
@@ -11,7 +10,7 @@
     .mycontainer{
         display: flex;
         flex-wrap: wrap; /* Permite ajustar em telas menores */
-        margin:1px;
+        margin:5px;
         gap: 5%;
 }
         h1 {
