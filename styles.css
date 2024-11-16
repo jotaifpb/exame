@@ -10,7 +10,7 @@
     .mycontainer{
         display: flex;
         flex-wrap: wrap; /* Permite ajustar em telas menores */
-        margin:5px;
+        margin:10px;
         gap: 5%;
 }
         h1 {
@@ -40,7 +40,7 @@
             text-align: center;
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 10px;
+            margin-bottom: 7px;
           
         }
         table, th, td {
