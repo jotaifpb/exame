@@ -3,9 +3,9 @@
             font-size: 12px;
             width: 13cm;
             height: 17cm;
-            padding: 20px;
+            padding: 10px;
             border: 1px solid #000;
-            margin: 5 left;
+            margin: 3 left;
         }
     .mycontainer{
         display: flex;
