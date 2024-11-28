@@ -107,6 +107,11 @@
                 border: none;
                 background-color: transparent;
             }
+	.header {
+                display: flex;
+            justify-content: center;
+                gap:5%;
+            }
 	@media print {
             button {
                 display: none;
