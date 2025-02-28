@@ -117,6 +117,7 @@
             }
               .observ {
 		width: 90%;
+		height: 50px;
              	border: none;
         	font-size: 11px;
             	cursor: pointer;
