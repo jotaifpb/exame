@@ -117,12 +117,11 @@
             }
               .observ {
 		width: 70%;
-		height: 30px;
+		height: 20px;
              	border: none;
         	font-size: 11px;
             	cursor: pointer;
          	padding: 1px;
-		padding: 5%;
             }
 	@media print {
             button {
