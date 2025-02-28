@@ -94,7 +94,7 @@
       border-radius: 3px;
         }
       .Nome {
-            width: 60%;
+            width: 70%;
              border: none;
         font-size: 15px;
             cursor: pointer;
@@ -116,6 +116,11 @@
                 gap:5%;
             }
               .observ {
+		width: 90%;
+             	border: none;
+        	font-size: 12px;
+            	cursor: pointer;
+         	padding: 1px;
                 margin-top: 8%;
                  font-weight: bold;
             }
