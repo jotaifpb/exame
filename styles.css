@@ -121,7 +121,7 @@
              	border: none;
         	font-size: 11px;
             	cursor: pointer;
-         	padding: 1px;
+         	padding: 5px;
             }
 	@media print {
             button {
