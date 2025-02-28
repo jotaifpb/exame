@@ -116,12 +116,12 @@
                 gap:5%;
             }
               .observ {
-		width: 80%;
-		height: 10px;
+		width: 70%;
+		height: 15px;
              	border: none;
         	font-size: 11px;
             	cursor: pointer;
-         	padding: 1px;
+         	padding: 2px;
             }
 	@media print {
             button {
