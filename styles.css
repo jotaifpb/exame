@@ -1,4 +1,4 @@
-  body{
+body{
             font-family: Arial, sans-serif;
             font-size: 11px;
             width: 12cm;
@@ -42,6 +42,7 @@
             border-collapse: collapse;
             margin-bottom: 1px;
           
+          
         }
         table, th, td {
           table-layout: auto;
@@ -70,17 +71,18 @@
             text-align: center;
             font-weight: bold;
             margin-bottom: 5px;
+          
         }
         .indications {
             display: flex;
           justify-content: space-between;
+          
             
         }
         .indications div {
- 
           display: flex;
             width:90%;
-          margin-top:3%;
+          margin-top:1%;
         }
         .indications table {
             width: 90%;
@@ -125,8 +127,11 @@
              	border: none;
         	font-size: 11px;
             	cursor: pointer;
-         	padding: 1px;
             }
+ .recomen {
+           
+  
+}
 	@media print {
             button {
                 display: none;
