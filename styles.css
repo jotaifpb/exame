@@ -1,4 +1,4 @@
-    body{
+  body{
             font-family: Arial, sans-serif;
             font-size: 11px;
             width: 12cm;
@@ -36,15 +36,15 @@
      
         table {
           
-           font-size: 16px;
+           font-size: 14px;
            font-weight: bold;
-            text-align: center;
             width: 100%;
             border-collapse: collapse;
             margin-bottom: 1px;
           
         }
         table, th, td {
+          table-layout: auto;
             border: 1px solid #000;
         }
       .u {
@@ -53,7 +53,7 @@
         }
         th, td {
             padding: 5px;
-            text-align: center;
+          
         }
         .editable {
             width: 100%;
@@ -73,14 +73,19 @@
         }
         .indications {
             display: flex;
-            justify-content: space-between;
+          justify-content: space-between;
+            
         }
         .indications div {
-            width: 70%;
+ 
+          display: flex;
+            width:90%;
           margin-top:3%;
         }
         .indications table {
-            width: 100%;
+            width: 90%;
+          gap: 5px;
+          margin-left:5%
         }
         button {
             display: block;
